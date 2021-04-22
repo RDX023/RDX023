@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RDX023
+- 👋 Hi, I’m @RDX023 (Roshan DiXit)
 - 👀 I’m interested in Djangp and Rest api framework
 - 🌱 I’m currently learning Django Rest API
 - 📫 How to reach me roshandixit2317@gmail.com
